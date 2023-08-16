@@ -1,4 +1,4 @@
-const aws = require('./aws');
+const aws = require('./google');
 const gh = require('./gh');
 const config = require('./config');
 const core = require('@actions/core');
